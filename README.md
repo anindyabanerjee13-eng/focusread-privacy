@@ -16,3 +16,4 @@ FocusRead does not knowingly collect any information from anyone, including chil
 If this policy changes, the updated version will be posted at this URL with a new date.
 <H3> Contact </H3>
 For any questions about this privacy policy, contact us through the Chrome Web Store listing page.
+[![Listed on Plug Your Build](https://plugyourbuild.com/api/badge/focusread-reader-mode-8ab419?style=dark)](https://plugyourbuild.com/listing/focusread-reader-mode-8ab419)
